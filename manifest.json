@@ -1,0 +1,11 @@
+{
+	"id": "property-hider",
+	"name": "Property Hider",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Hide individual metadata properties in notes and file properties view",
+	"author": "Myster",
+	"authorUrl": "https://github.com/mysterv",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
