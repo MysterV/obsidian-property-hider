@@ -1,5 +1,5 @@
-# Obsidian Property hider
-Obsidian plugin to hide *individual* metadata properties in
+# Property hider for [Obsidian.md](https://obsidian.md)
+Allows you to hide *individual* metadata properties in
 - notes (live preview and reading view),
 - and file properties view (core plugin "Properties View")
 
