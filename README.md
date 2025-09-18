@@ -19,10 +19,17 @@ Here's an example of my daily note
 ### The one on the _right_ is much more readable, isn't it?
 That's what this plugin is for: removing the unnecessary noise without limiting accessibility, allowing you to focus only on the properties that truly matter.
 
-<br><br>
-
 P.S. Don't worry, all your properties are still there and unchanged, just hidden from view.  
 <img src="assets/preview_source.png" width="256" />
+
+<br><br>
+
+## Usage
+1. Go to plugin settings
+2. Add a property
+3. Toggle visibility of that property using either the button in plugin settings, or a keyboard shortcut
+
+<br><br>
 
 
 ## Roadmap
