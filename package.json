@@ -1,5 +1,5 @@
 {
-	"name": "property-hider",
+	"name": "obsidian-property-hider",
 	"version": "1.0.0",
 	"description": "Hide individual metadata properties in notes and file properties view",
 	"main": "main.js",

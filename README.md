@@ -1,11 +1,11 @@
 # Property hider for [Obsidian.md](https://obsidian.md)
-Lets you hide *individual* metadata properties in
+Hides *individual* metadata properties in
 - notes (live preview and reading view),
 - and file properties view (core plugin "Properties View")
 
 Features:
 - simple configuration in plugin settings with a quick on/off switch
-- hotkeys to quickly toggle visibility of each property
+- keyboard shortcuts to quickly toggle visibility of each property
 
 <br><br>
 
@@ -21,7 +21,7 @@ That's what this plugin is for: removing the unnecessary noise without limiting 
 
 <br><br>
 
-P.S. Don't worry, all your properties are still there and unchanged, just hidden from view  
+P.S. Don't worry, all your properties are still there and unchanged, just hidden from view.  
 <img src="assets/preview_source.png" width="256" />
 
 
@@ -32,9 +32,7 @@ P.S. Don't worry, all your properties are still there and unchanged, just hidden
 
 <br><br>
 
-## Technicalities for professionals
-Manually building the plugin
-- edit `main.ts`
+## Manually building the plugin
 - `npm i`
-- `npm run build` -> creates `main.js`
+- `npm run build` -> creates `main.js` from `main.ts`
 - or `npm run dev` -> automatically recreates `main.js` every time you save `main.ts`
