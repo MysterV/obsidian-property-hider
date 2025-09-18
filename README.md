@@ -33,9 +33,14 @@ P.S. Don't worry, all your properties are still there and unchanged, just hidden
 
 
 ## Roadmap
-- [ ] option to toggle visibility of all configured properties at once
-- [ ] option to toggle visibility of the entire properties section at once
-- [ ] per-note properties visibility configuration (might be tricky)
+- [ ] add option to toggle visibility of
+    - [ ] all configured properties at once
+    - [ ] the entire properties section at once
+    - [ ] the "Properties" section name
+    - [ ] the "Add property" button
+    - [ ] the property icons
+    - [ ] the property names? (if you have custom property icons like I do)
+- [ ] per-note properties visibility (might be tricky)
 
 <br><br>
 
